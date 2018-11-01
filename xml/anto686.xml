@@ -4,54 +4,7 @@
     <name>axe</name>
     <pid>100</pid>
     <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>sda</name>
-    <pid>345</pid>
-    <price>34</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>dada</name>
-    <pid>100</pid>
-    <price>500</price>
-    <status>pending</status>
-  </product>
-  <product>
-    <name>axe</name>
-    <pid>100</pid>
-    <price>500</price>
+    <quantity>5</quantity>
     <status>pending</status>
   </product>
 </productList>

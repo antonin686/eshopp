@@ -26,6 +26,7 @@
                 <td>Name</td>
                 <td>Product ID</td>
                 <td>Price</td>
+                <td>Quantity</td>
                 <td>Status</td>
             </tr>
             <?php 
@@ -37,13 +38,12 @@
                         echo "<td>".$p->name."</td>";
                         echo "<td>".$p->pid."</td>";
                         echo "<td>".$p->price."</td>";
+                        echo "<td>".$p->quantity."</td>";
                         echo "<td>".$p->status."</td>";
                     echo "</tr>";
                 }
-            ?>    
-            
-
-    </table>    
+            ?> 
+        </table>    
     </div>
 </body>
 </html>
