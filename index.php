@@ -1,3 +1,8 @@
+<?php
+    session_start();
+
+    $_SESSION['activeUser'] = "anto686";
+?>
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,25 +1,40 @@
 .box{
-    width: 500px;
-    height: 300px;
+    width: 60%;
+    
     background: rgba(0, 0, 0, 0.4);
-    padding: 40px;
-    text-align: center;
     margin: auto;
+
+    color:white;
+    
     margin-top: 10%;
-    margin-bottom: 5%;
-    color: white;
+    padding: 1%;
+    font-family: 'Century Gothic',sans-serif;
+}
+.boxForm{
+    width: 60%;
+    
+    background: rgba(0, 0, 0, 0.4);
+    margin: auto;
+
+    color:white;
+    
+    margin-top: 10%;
+    padding: 1%;
     font-family: 'Century Gothic',sans-serif;
 }
 .box table{
     border-collapse: collapse;
     width: 100%;
+   
+    
 }
 
 .box table td,
-.box table th{
+.box table tr{
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+   
 }
 
 .button {
@@ -34,3 +49,18 @@
     border-left: 1px solid #CCCCCC;
     float: right;
   }
+
+  .formbox{
+    width: 500px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    
+    margin: auto;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.formbox table {
+    margin: auto;
+}
