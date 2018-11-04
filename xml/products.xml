@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <productList>
   <product>
-    <name>axe</name>
+    <username>anto686</username>
+    <fullname>axe</fullname>
+    <img>../uploads/5ZOmdr0n_400x400.jpg</img>
     <pid>100</pid>
     <price>500</price>
     <quantity>5</quantity>

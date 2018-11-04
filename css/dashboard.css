@@ -64,3 +64,7 @@
 .formbox table {
     margin: auto;
 }
+.box tr img{
+    width: 40px;
+    height: 40px;
+}
