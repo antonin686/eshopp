@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <productList>
+  <productInfo>
+    <productSerial>107</productSerial>
+  </productInfo>
   <product>
-    <username>anto686</username>
-    <fullname>axe</fullname>
-    <img>../uploads/5ZOmdr0n_400x400.jpg</img>
-    <pid>100</pid>
+    <pid>104</pid>
+    <name>axe</name>
+    <type>man</type>
+    <img>../uploads/Capture.PNG</img>
+    <price>500</price>
+    <quantity>5</quantity>
+    <status>pending</status>
+  </product>
+  <product>
+    <pid>105</pid>
+    <name>axe</name>
+    <type>man</type>
+    <img>../uploads/</img>
+    <price>500</price>
+    <quantity>5</quantity>
+    <status>pending</status>
+  </product>
+  <product>
+    <pid>106</pid>
+    <name>axe</name>
+    <type>man</type>
+    <img>../uploads/</img>
+    <price>500</price>
+    <quantity>5</quantity>
+    <status>pending</status>
+  </product>
+  <product>
+    <pid>107</pid>
+    <name>axe</name>
+    <type>man</type>
+    <img>../uploads/profile.jpg</img>
     <price>500</price>
     <quantity>5</quantity>
     <status>pending</status>

@@ -35,17 +35,15 @@
 
                 foreach($dom->product as $p)
                 {
-                    if($p->username == $user)
-                    {
                         echo "<tr>";
-                        echo "<td>".$p->fullname."</td>";
+                        echo "<td>".$p->name."</td>";
                         echo "<td><img style='width: 80px;height:80px' src='".$p->img."'></td>";
                         echo "<td>".$p->pid."</td>";
                         echo "<td>".$p->price."</td>";
                         echo "<td>".$p->quantity."</td>";
                         echo "<td>".$p->status."</td>";
-                    echo "</tr>";
-                    }         
+                        echo "</tr>";
+                          
                 }
             ?> 
         </table>    
